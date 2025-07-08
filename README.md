@@ -39,7 +39,7 @@ A work-in-progress **Valgrind-style memory analysis tool** written in **Rust**, 
 ### 📦 Build & Run
 
 ```bash
-git clone https://github.com/yourusername/valgrind-rs.git
+git clone https://github.com/arkcadia/rustgrind.git
 cd valgrind-rs
 cargo build --release
 
